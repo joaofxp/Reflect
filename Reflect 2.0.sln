@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CF500527-2476-87A6-9D10-831B9DBC8405}") = "Reflect 2.0", "Assembly-CSharp.csproj", "{1DD6ACFE-120A-B54F-F04A-1492ADE2FBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD6ACFE-120A-B54F-F04A-1492ADE2FBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD6ACFE-120A-B54F-F04A-1492ADE2FBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD6ACFE-120A-B54F-F04A-1492ADE2FBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD6ACFE-120A-B54F-F04A-1492ADE2FBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
